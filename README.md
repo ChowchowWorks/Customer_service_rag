@@ -1,4 +1,4 @@
-# Customer_service_rag
+#PN_RagPipeline
 This is a rag pipeline that is meant to be integrated into a business platform to provide customer services.
 The files uploaded in this repository are versions of the RAG Pipeline that builds from a basic RAG with minimal features in version 1 to a RAG pipeline that encompasses more advanced features to enhance responses.
 Codes from this repository follow closely the codes by @riancemartin in his rag-from-scratch series. 
